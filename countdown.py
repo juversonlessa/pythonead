@@ -1,5 +1,5 @@
 def countdown(n):
-    if n == 0:
+    if n == -1:
         print("Acabou")
     else:
         print(n)
